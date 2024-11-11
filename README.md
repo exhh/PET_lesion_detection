@@ -3,9 +3,9 @@ This code is used to detect neuroendocrine tumors/lesions on positron emission t
 
 Usage (please refer to the paper below for the details of data format):
 
-For training: ./train_detection.sh
+For training: ./train.sh
 
-For testing: ./eval_detection.sh
+For testing: ./eval.sh
 
 
 <br>
