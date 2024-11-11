@@ -1,4 +1,4 @@
-# PET_lesion_detection
+# Lesion deteciton in PET images
 This code is used to detect neuroendocrine tumors/lesions on positron emission tomorgraphy (PET) images with 3D deep learning-based location aware encoding. The code is implemented with PyTorch (version 1.10.1, https://pytorch.org/) on a Ubuntu Linux machine.
 
 Usage (please refer to the paper below for the details of data format):
